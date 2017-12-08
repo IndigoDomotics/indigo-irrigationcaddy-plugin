@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>PluginVersion</key>
-	<string>1.0</string>
+	<string>1.0.1</string>
 	<key>ServerApiVersion</key>
 	<string>1.4</string>
 	<key>IwsApiVersion</key>
@@ -18,7 +18,7 @@
 	<array>
 		<dict>
 			<key>CFBundleURLName</key>
-			<string>http://whizzosoftware.com/blog/2013/05/16/indigo-irrigation-caddy-plugin.html</string>
+			<string>https://github.com/IndigoDomotics/indigo-irrigationcaddy-plugin</string>
 		</dict>
 	</array>
 </dict>
